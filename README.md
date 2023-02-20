@@ -6,4 +6,6 @@
 3. `npm run build`打包项目
 ## 项目预览
 1. 首页
+![](https://github.com/Dpamiss1005/Headlines/blob/main/express_images/index.png)
 2. 个人用户（静态页面）
+![](https://github.com/Dpamiss1005/Headlines/blob/main/express_images/user.png)
